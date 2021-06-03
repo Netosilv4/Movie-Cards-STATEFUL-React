@@ -23,6 +23,7 @@ body {
   display: flex;
   flex-flow: row wrap;
   padding: 48px 30px;
+  gap: 10px;
 }
 
 .movie-card {
@@ -45,6 +46,7 @@ body {
 .movie-card-body {
   flex: 1 1 auto;
   padding: 20px;
+  width: 100%;
 }
 
 .movie-card-title {
